@@ -1,0 +1,1 @@
+Y:\code\sideprojects\rust\rustlings\target\release\rustlings.exe: Y:\code\sideprojects\rust\rustlings\src\exercise.rs Y:\code\sideprojects\rust\rustlings\src\main.rs Y:\code\sideprojects\rust\rustlings\src\run.rs Y:\code\sideprojects\rust\rustlings\src\ui.rs Y:\code\sideprojects\rust\rustlings\src\verify.rs
